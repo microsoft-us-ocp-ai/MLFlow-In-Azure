@@ -1,0 +1,7 @@
+*.env
+my_shell.sh 
+*.vscode
+*.ipynb_checkpoints
+*.pytest_cache
+*.vscode
+*__pycache__
