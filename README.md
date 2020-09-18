@@ -26,8 +26,10 @@ This Repository contains the resources for MLFlow deployment with Azure resource
   - activate the environment by `pipenv shell`
 
 ## The notebooks
+- `hands_on_example simple.ipynb`
 - `hands_on_example Azure Resources.ipynb`
 - `hands_on_example AML.ipynb`
+- `hands_on_example Azure Databricks.ipynb`
 - run `jupyter notebook`
 
 
