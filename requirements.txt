@@ -3,7 +3,13 @@ pandas
 scikit-learn
 jupyter
 pipfile
-psycopg2
+psycopg2-binary
 tensorflow
 keras
 azureml-mlflow
+matplotlib
+seaborn
+statsmodels
+azureml-dataprep
+azureml-core
+azure-storage-blob

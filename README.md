@@ -19,7 +19,6 @@ This Repository contains the resources for MLFlow deployment with Azure resource
   - install pip in the environment: `conda install pip`
   - run `pip install -r requirements.txt`
 
-
 - **with pipenv** 
   - install pipenv: `pip install pipenv`
   - run `pipenv install` in the directory of the Pipfile
